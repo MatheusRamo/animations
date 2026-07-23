@@ -1,6 +1,5 @@
 from manim import *
 import random
-import numpy as np
 
 class EraDoMisterio(Scene):
     def construct(self):
