@@ -25,3 +25,8 @@ Em **qualquer** tarefa que envolva alteração, criação ou remoção de códig
 ## 2. Boas Práticas Gerais
 - **Integridade do Código:** Mantenha a documentação e os comentários originais de partes do código que não estão sendo diretamente modificadas na tarefa atual.
 - **Precisão nas Alterações:** Realize mudanças direcionadas e limpas, garantindo que o histórico de commits reflita precisamente o escopo de cada solicitação do usuário.
+
+## 3. Fluxo de Trabalho com Manim (Obrigatório)
+
+- Toda Animação feita no Manim tera como background a cor `#051a2e`
+e cor dos titulos `WHITE` e subtitulos `#11caa0`
